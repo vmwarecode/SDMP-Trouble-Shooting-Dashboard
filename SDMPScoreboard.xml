@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdapterKinds>
+    <AdapterKind adapterKindKey="APPLICATIONDISCOVERY">
+        <ResourceKind resourceKindKey="ApplicationDiscoveryAdapterInstance">
+            <Metric attrkey="Instance Attributes|elapsed_collect_time" label="" unit="" yellow="" orange="" red=""/>
+            <Metric attrkey="Instance Attributes|new_metrics" label="" unit="" yellow="" orange="" red=""/>
+            <Metric attrkey="Instance Attributes|new_resources" label="" unit="" yellow="" orange="" red=""/>
+            <Metric attrkey="Instance Attributes|observations" label="" unit="" yellow="" orange="" red=""/>
+        </ResourceKind>
+    </AdapterKind>
+</AdapterKinds>
